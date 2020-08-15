@@ -1,4 +1,4 @@
----
+--- 
 title: 'CircuitGraph: A Python package for Boolean circuits'
 tags:
   - Python
@@ -17,7 +17,7 @@ index: 1
 date: 13 August 2020
 bibliography: paper.bib
 
----
+--- 
 
 # Summary
 
