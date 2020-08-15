@@ -7,13 +7,13 @@ tags:
   - graph
   - electronic design automation
 authors:
-- name: Joseph Sweeney
-affiliation: 1
-- name: Ruben Purdy
-affiliation: 1
+  - name: Joseph Sweeney
+    affiliation: 1
+  - name: Ruben Purdy
+    affiliation: 1
 affiliations:
-- name: Carnegie Mellon University
-index: 1
+  - name: Carnegie Mellon University
+    index: 1
 date: 13 August 2020
 bibliography: paper.bib
 
